@@ -1,4 +1,4 @@
-package com.prabin.querydsl.entity;
+package com.prabin.querydsl.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

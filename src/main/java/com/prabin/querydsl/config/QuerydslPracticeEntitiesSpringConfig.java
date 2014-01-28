@@ -7,6 +7,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @Configuration
 @EnableJpaRepositories(basePackages = "com.prabin.querydsl.repository")
 @ComponentScan({"com.prabin.querydsl.entity", "com.prabin.querydsl.repository"})
-public class QdslPracticeEntitiesSpringConfig {
+public class QuerydslPracticeEntitiesSpringConfig {
 
 }
